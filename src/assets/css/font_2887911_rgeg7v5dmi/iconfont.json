@@ -1,0 +1,93 @@
+{
+  "id": "2887911",
+  "name": "cloud_music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30964235",
+      "name": "爱心-copy",
+      "font_class": "aixin-hover",
+      "unicode": "ea13",
+      "unicode_decimal": 59923
+    },
+    {
+      "icon_id": "8288959",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e85c",
+      "unicode_decimal": 59484
+    },
+    {
+      "icon_id": "2076243",
+      "name": " 增加",
+      "font_class": "zengjia",
+      "unicode": "e889",
+      "unicode_decimal": 59529
+    },
+    {
+      "icon_id": "4766848",
+      "name": "folder-add",
+      "font_class": "folder-add",
+      "unicode": "e7d1",
+      "unicode_decimal": 59345
+    },
+    {
+      "icon_id": "13519394",
+      "name": "folder-checked",
+      "font_class": "folder-checked",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "16388176",
+      "name": "暂停",
+      "font_class": "zanting1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "14046407",
+      "name": "下降",
+      "font_class": "shangsheng1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "7592577",
+      "name": "24gf-volumeDisable",
+      "font_class": "icon-jingyin",
+      "unicode": "ea0f",
+      "unicode_decimal": 59919
+    },
+    {
+      "icon_id": "7592581",
+      "name": "24gf-volumeHigh",
+      "font_class": "icon-yinliangda2",
+      "unicode": "ea11",
+      "unicode_decimal": 59921
+    },
+    {
+      "icon_id": "7592583",
+      "name": "24gf-volumeMiddle",
+      "font_class": "icon-yinliangzhong",
+      "unicode": "ea12",
+      "unicode_decimal": 59922
+    },
+    {
+      "icon_id": "792196",
+      "name": "yinliangxiao-音量小",
+      "font_class": "yinliangxiao",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "792197",
+      "name": "yinliangda-音量大",
+      "font_class": "yinliangda",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}

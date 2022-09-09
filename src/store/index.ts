@@ -1,4 +1,8 @@
 import { createStore } from 'vuex'
+import aside from './modules/aside'
+import login from './modules/login'
+import songList from './modules/songList'
+import video from './modules/video'
 
 export default createStore({
   state: {
@@ -8,5 +12,9 @@ export default createStore({
   actions: {
   },
   modules: {
+    aside,
+    login,
+    songList,
+    video
   }
 })
